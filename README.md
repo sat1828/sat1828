@@ -1,108 +1,15 @@
-# 👋 Hello, I'm Satyajit Parida!
+# 👋 Hi, I'm Satyajit Parida
 
-🎓 B.Tech in Computer Science & Engineering | 📍 Odisha, India  
-💡 Passionate about AI, Machine Learning, and building solutions that solve real-world problems.  
-🌐 [LinkedIn](https://www.linkedin.com/in/satyajit-parida-48a34230a/) | 📫 satyajitparida294@gmail.com | ☎️ +91 8260743307  
-🔗 [GitHub Portfolio](https://github.com/sat1828)
-
----
-
-## 🚀 About Me
-
-I'm an enthusiastic AI and Data Science student currently pursuing my B.Tech at **Centurion University of Technology and Management**, Bhubaneswar. I love experimenting with data, training intelligent systems, and building tools that make everyday tasks smarter and more accessible.
-
-I'm especially interested in areas like:
-- 🌍 AI for social good
-- 🧠 Predictive modeling & Deep Learning
-- 🤖 Human-computer interaction
-- 📊 Data Visualization & Insights
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages:** Python (Intermediate), Java (Basic), JavaScript, HTML, CSS, C (Basic)
-- **AI & ML:** Deep Learning, Predictive Modeling, Generative AI, Image Analytics
-- **Tools:** Tableau, VS Code
-- **Databases:** MySQL
-- **Cloud:** AWS
-
----
-
-## 💼 Projects Showcase
-
-### 🗣️ Lingo-Bot
-> **Sign Language to Speech Translator**  
-Built a real-time translator that converts sign language gestures to audible speech, bridging the communication gap for the hearing-impaired community.
-
-### 👨‍💻 Invisible-Bot
-> **Bot Detection via Keystroke & Mouse Behavior**  
-Designed an ML-based system that detects bot-like behavior in real-time authentication scenarios—no CAPTCHA needed!
-
-### 🧾 Chatbot for E-Governance
-> **Citizen Interaction Bot**  
-Developed a smart chatbot to streamline communication between citizens and government services, making e-governance more accessible.
-
-### 🛰️ Satellite Image Analytics
-> **Urban Region Analysis using Deep Learning**  
-Processed satellite images to identify and classify urban growth patterns, aiding in planning and environmental monitoring.
-
-### 🧠 Voice-Based Age & Gender Classification
-> **Demographic Prediction using Voice Input**  
-Developed a model to estimate age and gender based on speech features using ML techniques.
-
-### 📊 Eco-Impact Insights
-> **Tableau Dashboard for Ecological Trends**  
-Built an interactive dashboard to visualize environmental metrics and highlight ecological impact patterns.
-
-### 🕵️‍♂️ Crime Rate Prediction
-> **Predictive Analytics for Crime Patterns**  
-Trained a model using historical data to detect high-risk areas and support law enforcement planning.
-
-### 🎮 Fun Tools Website
-> **Interactive Website with Games & Tools**  
-Created a playful and functional web app using HTML, CSS, and JavaScript, showcasing frontend development skills.
-
----
-
-## 🎓 Internships & Virtual Experience
-
-- **Uptoskills** – Built an AI-based dynamic assessment page for automated question generation.
-- **Accenture North America (Forage)** – Completed the Data Analytics Virtual Internship focusing on client reporting and business insights.
-- **TCS (Forage)** – Gained hands-on experience in data visualization and trend analysis for business applications.
-
----
-
-## 🏆 Certifications & Achievements
-
-- **Python & Java Course Completions** – LearnTube by CareerNinja
-- 🛡️ **Avalanche Hackathon (2024)** – Developed a blockchain-based Healthcare Management System using Solidity.
-- 🥇 **Top 25 Finalist** – Represented Centurion University in the GeeksforGeeks Hackathon with an innovative project.
-
----
-
-## 💬 Soft Skills
-
-- 🔍 Critical Thinker
-- 🧠 Problem Solver
-- 👥 Team Collaborator
-- 🗣️ Effective Communicator
-- 🎯 Leader with a Vision
-- 🎤 Confident Presenter
-
----
-
-## 📌 Currently Exploring
-
-- Building **Generative AI** applications for document summarization and legal-tech
-- Exploring **Multimodal AI** and its real-life implications
-- Collaborating on **AI-driven public governance tools**
-
----
-
-> _“The best way to predict the future is to create it.”_ – Let’s innovate together.
-
-🌱 *I'm open to internships, research collaborations, and innovative AI projects. Feel free to connect!*
+🎓 B.Tech CSE | AI & Data Science Enthusiast | SGPA: 9.75  
+🚀 Skilled in Python, ML/DL, Predictive Modeling, Generative AI & Tableau  
+📊 Built projects like Crime Prediction, Sign Language Translator, Bot Detector, and more  
+💬 Created E-Governance Chatbot & Satellite Image Analytics using Deep Learning  
+🌐 Interned at Uptoskills, Accenture (Forage), and TCS (Forage)  
+🏅 Top 25 in GeeksforGeeks Hackathon | Built Blockchain-based HealthCare System  
+📚 Certified in Python & Java by LearnTube (CareerNinja)  
+🧠 Strong in Problem Solving, Teamwork, and Communication  
+🔗 [LinkedIn](https://www.linkedin.com/in/satyajit-parida-48a34230a/) | [GitHub](https://github.com/sat1828)  
+📫 satyajitparida294@gmail.com | ☎️ +91 8260743307
 
 
 ## 🌐 Socials:

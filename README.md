@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Satyajit Parida
 
-🎓 B.Tech CSE | AI & Data Science Enthusiast | SGPA: 9.75  
+🎓 B.Tech CSE | AI & Data Science Enthusiast
 🚀 Skilled in Python, ML/DL, Predictive Modeling, Generative AI & Tableau  
-📊 Built projects like Crime Prediction, Sign Language Translator, Bot Detector, and more  
-💬 Created E-Governance Chatbot & Satellite Image Analytics using Deep Learning  
-🌐 Interned at Uptoskills, Accenture (Forage), and TCS (Forage)  
-🏅 Top 25 in GeeksforGeeks Hackathon | Built Blockchain-based HealthCare System  
-📚 Certified in Python & Java by LearnTube (CareerNinja)  
+🌐 Interned at Uptoskills 
+🏅 100 Days LeetCode Badge 2026 (consistent problem-solving streak) | Paper published at IEEE International Conference 2025 (Invisible-Shield Project) |  University SGPA 9.75/10 (top percentile) | TechNova Grand Finalist (2025)Top 25 in GeeksforGeeks Hackathon | Built Blockchain-based HealthCare System
+📚 Certified in Python, Java, AI, AWS, ML
 🧠 Strong in Problem Solving, Teamwork, and Communication  
 
 # 💫 About Me:

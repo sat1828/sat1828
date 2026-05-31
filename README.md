@@ -7,14 +7,6 @@
 📚 Certified in Python, Java, AI, AWS, ML
 🧠 Strong in Problem Solving, Teamwork, and Communication  
 
-# 💫 About Me:
-🔭 I'm currently working on SentryLens (YOLOv8 PPE detection + RTSP streaming) and ClauseGuard (LLM contract intelligence with 5-stage NLP pipeline) <br>
-👯 I'm looking to collaborate on Production AI/ML systems — agentic pipelines, RAG architectures, real-time ML inference, or anything involving LangGraph / FastAPI / vector search <br>
-🤝 I'm looking for help with Writing better integration tests for async FastAPI services and improving CI coverage on my LangGraph agent projects <br>
-🌱 I'm currently learning LangGraph stateful agent patterns, pgvector hybrid search (BM25 + semantic + RRF), and MLOps observability with Prometheus + Grafana <br>
-💬 Ask me about Building behavioral biometrics without ML, hybrid RAG pipelines for low-resource Indian languages, or fraud detection with XGBoost on synthetic UPI data <br>
-⚡ Fun fact I built a bot-detection system that uses mouse jerk variance and keystroke timing entropy instead of CAPTCHAs — and it hit 0% false positives in combined mode <br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/satyajit-parida-48a34230a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyajitparida294@gmail.com) 
